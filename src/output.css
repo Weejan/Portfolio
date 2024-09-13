@@ -710,9 +710,18 @@ video {
   --tw-gradient-to-position: 50%;
 }
 
+.p-\[300px\] {
+  padding: 300px;
+}
+
 .px-\[80px\] {
   padding-left: 80px;
   padding-right: 80px;
+}
+
+.py-\[300px\] {
+  padding-top: 300px;
+  padding-bottom: 300px;
 }
 
 .font-inter {
