@@ -6,6 +6,7 @@ export default {
       screens: {
         "3xl": "1680px",
         "1lg": "1156px",
+        "1md": "860px",
       },
       fontFamily: {
         inter: ["Inter", "sans-serif"],

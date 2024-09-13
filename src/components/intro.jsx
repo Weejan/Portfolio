@@ -1,7 +1,7 @@
 export default function Intro() {
   return (
     <div className=" w-full bg-gradient-to-r from-gray-300   via-gray-300 via-50% to-black  to-50%">
-      <div className=" w-[60%] mx-auto  py-[200px]   max-3xl:w-[90%] ">
+      <div className=" w-[60%] mx-auto  py-[200px] lg:py-[350px]   max-3xl:w-[90%] ">
         <div className="flex justify-between  ">
           <span className="text-8xl font-bold font-inte max-sm:text-4xl max-md:text-5xl max-lg:text-7xl">
             Weejan

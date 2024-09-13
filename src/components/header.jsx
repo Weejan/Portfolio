@@ -6,9 +6,13 @@ export default function Header() {
           <span className=" text-3xl font-medium font-inter max-md:text-xl">
             Wizzy.
           </span>
-          <span className=" text-2xl font-medium font-inter  text-gray-300 max-md:text-lg">
+          <a
+            href="#contact"
+            id="contactBtn"
+            className=" text-2xl font-medium font-inter  text-gray-300 max-md:text-lg"
+          >
             Contact
-          </span>
+          </a>
         </div>
       </nav>
     </>
